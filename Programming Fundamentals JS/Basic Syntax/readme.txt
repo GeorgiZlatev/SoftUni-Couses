@@ -55,3 +55,17 @@ Write a program, which prints all the numbers from 1 to 100, which are divisible
 
 9.	Numbers from N to 1
 Write a function that receives a number N and prints all the numbers from N to 1. Try using the while loop.
+
+10.	Numbers from M to N
+Write a function that receives a number M and a number N (M will always be bigger than N). Print all numbers from M to N.
+
+11.	Sum of Odd Numbers
+Write a program that prints the next n odd numbers (starting from 1) and on the last row prints the sum of them.
+Input
+You will receive a number – n. This number shows how many odd numbers you should print.
+Output
+Print the next n odd numbers, starting from 1, separated by newlines.
+On the last line, print the sum of these numbers in the following format: `Sum: {total sum}`
+Constraints
+•	n will be in the interval [1…100]
+
